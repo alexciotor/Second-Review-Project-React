@@ -4,8 +4,7 @@ import Review from './review'
 
 function App() {
 
-  const [people,setPeople]= useState(data)
-  const [value, setValue]= useState(0)
+
   return (
     <section>
     <div className="title">
